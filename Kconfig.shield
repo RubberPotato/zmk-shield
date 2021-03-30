@@ -1,0 +1,2 @@
+config SHIELD_PRIME-AEK
+    def_bool $(shields_list_contains,prime-aek)
